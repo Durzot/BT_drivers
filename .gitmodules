@@ -1,0 +1,3 @@
+[submodule "tools/MutSigCV"]
+	path = tools/MutSigCV
+	url = https://github.com/genepattern/MutSigCV

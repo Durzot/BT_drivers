@@ -1,0 +1,27 @@
+# Project specific
+/htmlcov/
+
+# Logs 
+log/
+*.log
+*.coverage
+*.coveragerc
+
+# Mac anc Vim specific
+.DS_Store
+.DS_Store?
+*.m~
+*.*swp
+*.*swo
+
+# Python
+__pycache__/
+
+# Compiled sources
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+.Rproj.user
