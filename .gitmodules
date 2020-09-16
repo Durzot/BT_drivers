@@ -1,3 +1,6 @@
 [submodule "tools/MutSigCV"]
 	path = tools/MutSigCV
 	url = https://github.com/genepattern/MutSigCV
+[submodule "tools/dndscv"]
+	path = tools/dndscv
+	url = https://github.com/im3sanger/dndscv
