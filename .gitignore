@@ -1,6 +1,6 @@
 # Project specific
-/htmlcov/
 /tools/MutSigCV_1.41/references/
+/tools/MutSigCV_1.41/results_*/
 
 # Logs 
 log/
@@ -17,6 +17,7 @@ log/
 
 # Python
 __pycache__/
+*.pyc
 
 # Compiled sources
 *.com
